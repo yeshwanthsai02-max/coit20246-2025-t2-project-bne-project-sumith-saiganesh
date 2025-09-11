@@ -80,7 +80,7 @@ Security: Disable WPS; block peer-to-peer on Guest; allow only required outbound
 | HQ-Staff          | 13.10.10.0/16  | 13.10.10.1   | 13.10.10.50 – 13.10.10.220 | PCs, printers, AP uplinks          |
 | HQ-Guest Wi-Fi    | 13.10.20.0/16| 13.10.20.1   | 58.10.20.50 – 58.10.20.250 | Internet-only, no internal access  |
 | HQ-IoT/CCTV       | 14.10.30.0/16  | 14.10.30.1   | 06.10.30.50 – 06.10.30.200 | Cameras, RFID, IoT devices         |
-| HQ-Mgmt (optional)| 14.0.40.0/16 14.10.40.1   | —                       | IoT devices, CCTV cameras      |
+| HQ-Mgmt (optional)| 14.0.40.0/16 | 14.10.40.1   | —                       | IoT devices, CCTV cameras      |
 
 ---
 
