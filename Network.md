@@ -35,14 +35,14 @@ HQ Logical (no VLANs; separate interfaces/switches)
 
 Hq network design,
 
-<img width="768" height="182" alt="hq_network_design.png" src=https://github.com/yeshwanthsai02-max/coit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/Branch_Network_Design.png/>
+<img width="768" height="182" alt="hq_network_design.png" src="https://github.com/user-attachments/assets/5df884eb-7a91-462c-98c3-5a16c0444618/>
 
 
 Branch network design
 
 
-<img width="768" height="261" alt="Branch_Network_Design.png" src="https://github.com/user-attachments/assets/5df884eb-7a91-462c-98c3-5a16c0444618" />
-
+<img width="768" height="261" alt="Branch_Network_Design.png" src=https://github.com/yeshwanthsai02-max/coit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/Branch_Network_Design.png//>
+src="https://github.com/user-attachments/assets/5df884eb-7a91-462c-98c3-5a16c0444618"
 
 
 ## WiFi Design
