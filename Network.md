@@ -41,7 +41,7 @@ Hq network design,
 Branch network design
 
 
-<img width="768" height="261" alt="branch_network_design" src="https://github.com/user-attachments/assets/5df884eb-7a91-462c-98c3-5a16c0444618" />
+<img width="768" height="261" alt="Branch_Network_Design.png" src="https://github.com/user-attachments/assets/5df884eb-7a91-462c-98c3-5a16c0444618" />
 
 
 
