@@ -6,9 +6,9 @@
 -  Tutor: chiranjivi Neupane
 
 # Project Report
-[Project Plan](#ProjectPlan) 
-[Network Design](./network.md) 
-[Cloud Services](./cloud.md) 
-[Security](./security.md) 
-[Ethics](./ethics.md) 
-[Project Reflection](./reflection.md) 
+- [Project Plan](#ProjectPlan) 
+- Network Design](./network.md) 
+- [Cloud Services](./cloud.md) 
+- [Security](./security.md) 
+- [Ethics](./ethics.md) 
+- [Project Reflection](./reflection.md) 
