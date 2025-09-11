@@ -122,13 +122,13 @@ All prices are approximate AUD (from Australian suppliers, as of 2025).
   - Cisco ISR 4331 or Ubiquiti UniFi Dream Machine Pro SE
   - Minimum specs: Dual WAN ports, VPN/IPsec hardware acceleration, support for 100+ users
   - Approx. AUD $1,200 each  
-  - Example: [[[(https://store.ui.com/us/en/collections/unifi-routing)(https://store.ui.com/us/en/collections/unifi-routing)]](https://store.ui.com/us/en/collections/unifi-routing)(https://store.ui.com/us/en/collections/unifi-routing)
+  - Example: [[[(https://store.ui.com/us/en/collections/unifi-routing)(https://store.ui.com/us/en/collections/unifi-routing)]](https://store.ui.com/us/en/collections/unifi-routing)
 
 - **Branch Router (x1 per site)**
   - Ubiquiti UniFi Security Gateway Pro 4
   - Specs: Dual WAN, supports 50+ users, VPN capable
   - Approx. AUD $700
-  - Example Link:https:/?xstore.ui.com/us/en/collections/unifi-routing
+  - Example Link:(https://store.ui.com/us/en/collections/unifi-routing)
 
 ---
 
