@@ -1,7 +1,7 @@
 # Project Plan
 
 
-[Communication](#communication-plan) | [Schedule](#schedule) | [Network Design](./network.md) | [Cloud Services](./cloud.md) | [Security](./security.md) | [Ethics](./ethics.md) | [Reflection](./reflection.md) | [Return to index](./README.md)
+[Communication](#TeamCommunication-plan) | [Schedule](#ProjectTimeline) | [Network Design](./network.md) | [Cloud Services](./cloud.md) | [Security](./security.md) | [Ethics](./ethics.md) | [Reflection](./reflection.md) | [Return to index](./README.md)
 
 
 
