@@ -9,7 +9,7 @@
 
 | Week | When                       | Where      | How               | Purpose                                                      |
 |------|----------------------------|------------|-------------------|--------------------------------------------------------------|
-| 5    | Initial meeting            | Classroom  | Face to face      | Assign roles and quick clarifications                        |
+| 5    | Project kickoff session           | University meeting room  | In-person discussion      | To organise group structure, delegate initial responsibilities, and review project brief                        |
 | 6    | Weekly sync                | Chat platform | Instant messaging | Discuss the challenges, review and draft journal section     |
 | 7    | Final review meeting of task 4.1 | Campus     | Face to face      | Ensure consistency and completeness                          |
 
